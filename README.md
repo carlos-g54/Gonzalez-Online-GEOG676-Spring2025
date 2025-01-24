@@ -9,13 +9,15 @@ GIS Programming Repository
 
 | Labs          |      |
 | ------------- |:-------------:|
-| [Week01](https://github.com/carlos-g54/Gonzalez-Online-GEOG676-Spring2025/tree/main/Labs/Week_01)       | Week01        |
-| [Week02](https://github.com/carlos-g54/Gonzalez-Online-GEOG676-Spring2025/tree/main/Labs/Week_02)        | Week02        |
-| [Week03](https://github.com/carlos-g54/Gonzalez-Online-GEOG676-Spring2025/tree/main/Labs/Week_03)        | Week03        |
-| [Week04](https://github.com/carlos-g54/Gonzalez-Online-GEOG676-Spring2025/tree/main/Labs/Week_04)        | Week04        |
-| [Week05](https://github.com/carlos-g54/Gonzalez-Online-GEOG676-Spring2025/tree/main/Labs/Week_05)        | Week05        |
-| [Week06](https://github.com/carlos-g54/Gonzalez-Online-GEOG676-Spring2025/tree/main/Labs/Week_06)        | Week06        |
-| [Week07](/https://github.com/carlos-g54/Gonzalez-Online-GEOG676-Spring2025tree/main/Labs/Week_07)        | Week07        |
-| [Week08](https://github.com/carlos-g54/Gonzalez-Online-GEOG676-Spring2025/tree/main/Labs/Week_08)        | Week08        |
+| [Lab_01](https://github.com/carlos-g54/Gonzalez-Online-GEOG676-Spring2025/tree/main/Labs/Lab_01)       |         |
+| [Lab_02](https://github.com/carlos-g54/Gonzalez-Online-GEOG676-Spring2025/tree/main/Labs/Lab_02)        |         |
+| [Lab_03](https://github.com/carlos-g54/Gonzalez-Online-GEOG676-Spring2025/tree/main/Labs/Lab_03)        |         |
+| [Lab_04](https://github.com/carlos-g54/Gonzalez-Online-GEOG676-Spring2025/tree/main/Labs/Lab_04)        |         |
+| [Lab_05](https://github.com/carlos-g54/Gonzalez-Online-GEOG676-Spring2025/tree/main/Labs/Lab_05)        |        |
+| [Lab_06](https://github.com/carlos-g54/Gonzalez-Online-GEOG676-Spring2025/tree/main/Labs/Lab_06)        |        |
+| [Lab_07](https://github.com/carlos-g54/Gonzalez-Online-GEOG676-Spring2025/tree/main/Labs/Lab_07)        |         |
+| [Lab_08](https://github.com/carlos-g54/Gonzalez-Online-GEOG676-Spring2025/tree/main/Labs/Lab_08)        |         |
+
+
 
 
