@@ -7,8 +7,8 @@ GIS Programming Repository
  
 
 
-| Labs          |      |
-| ------------- |:-------------:|
+| Labs          |      
+| ------------- |
 | [Lab_01](https://github.com/carlos-g54/Gonzalez-Online-GEOG676-Spring2025/tree/main/Labs/Lab_01)       |         
 | [Lab_02](https://github.com/carlos-g54/Gonzalez-Online-GEOG676-Spring2025/tree/main/Labs/Lab_02)        |         
 | [Lab_03](https://github.com/carlos-g54/Gonzalez-Online-GEOG676-Spring2025/tree/main/Labs/Lab_03)        |         
