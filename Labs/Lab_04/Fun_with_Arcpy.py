@@ -31,4 +31,4 @@ garageBuffered = arcpy.Buffer_analysis(gdb_path + '\Garage_Points_reprojected', 
 
 arcpy.Intersect_analysis([garageBuffered, buildings], gdb_path + '\Garage_Building_Intersection', 'ALL')
 
-arcpy.TabletoTable_conversion(gdb_path + '\Garage_Building_Intersection.dbf','C:\DevSource\Gonzalez-Online-GEOG676-Spring2025\Labs\Lab_04', 'nearbyBuildings.csv')
+arcpy.TableToTable_conversion(gdb_path + '\Garage_Building_Intersection.dbf',folder_path, 'nearbyBuildings.csv')
